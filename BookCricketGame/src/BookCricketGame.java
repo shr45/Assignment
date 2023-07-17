@@ -71,5 +71,39 @@ public class BookCricketGame {
 	    }
 
 
-	}
+}
 
+
+
+
+//Welcome to  Book Cricket Game!
+//Toss Result:
+//Player 1: 182
+//Player 2: 144
+//Player 1 won the toss and will bat first.
+//
+//Player 1, press Enter to bat...
+//You scored: 98
+//Total runs for Player 1: 98
+//Player 2, press Enter to bat...
+//You scored: 196
+//Total runs for Player 2: 196
+//Player 1, press Enter to bat...
+//You scored: 91
+//Total runs for Player 1: 189
+//Player 2, press Enter to bat...
+//You scored: 108
+//Total runs for Player 2: 304
+//Player 1, press Enter to bat...
+//You scored: 169
+//Total runs for Player 1: 358
+//Player 2, press Enter to bat...
+//You scored: 170
+//Player 2 is out!
+//--- Game Over ---
+//Final Scores:
+//Player 1: 358 runs
+//Player 2: 304 runs
+//Player 1 is the winner!
+//
+//Thank you for playing!
