@@ -85,7 +85,22 @@ public class ArrayStatics {
 			sum += arr[i];
 		}
 		return sum;
+	}
 
 	}
 
-}
+
+
+//11 22 33 44 55 *-------------------------*
+//Sum of Array is :165
+//Average  of Array is :33.0
+//Minimum  of Array is :11
+//Minimum  of Array is :55
+//Midian  of Array is :33.0
+//Frequency of Each number in array is :
+//Number: 11, Frequency: 1
+//Number: 22, Frequency: 1
+//Number: 33, Frequency: 1
+//Number: 44, Frequency: 1
+//Number: 55, Frequency: 1
+
