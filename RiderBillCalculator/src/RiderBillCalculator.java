@@ -51,3 +51,20 @@ public class RiderBillCalculator {
 	}
 
 }
+
+
+
+
+
+//Let's Start !!
+//Enter your hight in centimeter
+//142
+//You can ride !!
+//Enter your age
+//23
+//Your bill is 12
+//Do you want photos yes or no 
+//yes
+//Your bill is 15
+//Your total bill is15
+
