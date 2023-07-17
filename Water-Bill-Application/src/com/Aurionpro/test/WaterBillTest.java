@@ -25,3 +25,15 @@ public class WaterBillTest {
 }
 
 
+
+
+//Enter the Water meter reading :
+//300
+//Your water bill is :6075.0
+//Want  calculate another  water bill y/n:
+//y
+//Enter the Water meter reading :
+//150
+//Your water bill is :1575.0
+//Want  calculate another  water bill y/n:
+//n
