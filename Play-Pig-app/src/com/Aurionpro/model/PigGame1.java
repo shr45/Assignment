@@ -1,11 +1,13 @@
 package com.Aurionpro.model;
 
+import java.util.Scanner;
+
 public class PigGame1 {
 	 private int totalScore;
 	    private int currentTurnScore;
 	    private int turnCount;
 
-	    public PigGame() {
+	    public PigGame1() {
 	        totalScore = 0;
 	        currentTurnScore = 0;
 	        turnCount = 1;
