@@ -57,3 +57,22 @@ public class MatrixMultiplicationTest {
 	}
 
 }
+
+
+//Enter the number of rows for matrix 1: 2
+//Enter the number of columns for matrix 1: 2
+//Enter the elements of matrix 1:
+//1
+//2
+//3
+//4
+//Enter the number of rows for matrix 2: 2
+//Enter the number of columns for matrix 2: 2
+//Enter the elements of matrix 2:
+//1
+//2
+//3
+//4
+//Matrix Product:
+//7 10 
+//15 22 
