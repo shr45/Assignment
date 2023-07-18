@@ -47,3 +47,14 @@ public class TreasureHunt {
 	}
 
 }
+
+
+
+//Left or Right
+//Left
+//Swim or Wait
+//Wait
+//Enter Blue Yellow or Red
+//yellow
+//You Win
+//
